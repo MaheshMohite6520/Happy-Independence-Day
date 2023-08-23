@@ -17,15 +17,6 @@ This animation project aims to replicate the flag's design with subtle waving mo
 - Responsive design for various screen sizes.
 - Minimalistic HTML and CSS code for easy integration.
 
-## How to Use
-
-To use this Indian flag animation on your own website, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/indian-flag-animation.git
-
 ## Customization
 
 You can customize the animation by adjusting the following variables in the CSS:
